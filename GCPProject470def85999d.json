@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "skillful-way-280916",
+  "private_key_id": "470def85999dba07c54d587509ce831a71de72ea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC45EkzV2vPK2GW\nuW6XwPyM0nPP4/NlJ5d9BoS/K52anpU0rvns1JPaizamhxGjpcRtAHcFRfas8jPL\ncKRjka9Zh+Eq++ela4PeuH1QiqEPnwnESzV+tD46msyy/joIyDXIKdoate/GezwS\nzrM3gYN+cZ6BqrsXNAzR/pG4wd8/WP0fwJtFfPRrt9sE4mOIAqWJ7R3gajEXKYpV\nGWUpxCEVcICuhnt7d1qRrdXCEHUXMdy8N0fGRKJ53dlQ7xO4I4CtFDe6w7DleG1O\nvZJujH4ZHCVLZO1NXoVkD3qKmoq5IZ9S+sFLRGuD1lvtbeSeJexMmAujDjIzG9aa\nIaDKlKBzAgMBAAECggEAT845ym9xmXqgJO7lTZt/Z0lvs8wwwvjT6qNlqR6qaJMK\n1DKyrgcTysFMVZT3iCuFHYeV2DDayMvCj42PZ2r6xSphhqw00LIXuYrojFtKKfP7\nwz6zWH10Xtdyg9A4PJIupLdr7Rua45FN3NBbixncKDfisxV+rAVLg1jejWEhe7Wv\ng13EoN/gMHUSjouM3MxS2V0rYUpapD+U35znG5yKR37q3bp5R0hBKf71O6EWRrdI\n3ONEs5uVShKnOozO22PKFgH0uz6WqFMlJ0Oxf6hbZQmOujhYpVVBv0dCT9E209XP\nNKSMswT15F9pvnAgb+2rtN2hCtvNc4npDlQp8yMwAQKBgQD9rzqy6SHMqJT9vIgl\n4e9vgS4I5ZtNKfKeDxKQ3RYlSkghptNysNknouRBD2dUrVUJiEAsFYjoOqLUkNpD\ngmBT1uSisTbC/2V6tt9A8jeXmBlbe0VorYdp3aZq0GH/xm6z97oX/a3zizbI7jCv\nX6MiuXuRLaZkEeY+YVRZ1/UVowKBgQC6lE/4lxpG4/UU2gjoJLBRfnc4Uu/w0345\nmiMmCE1+8Uz7uuiwvUhnLxNvGY2+K8RbtU2umLHNBPNVIzr0Vb0LTM9XFvyM0pUk\ndCsgOX3HG1GrFPtwFZQlw7j5gnE+KQcp0Fve9Du+1kIylQOW1iE78NrVBjr856iY\nAKViGnfW8QKBgGT9n1aeLNB2xGmG5oR+P32aZaMxFPRRIL7/rRpyiWBrA/Axo7fi\n43A+DrQ/15kEL/hNf46NPCWHQk9xIxMBEiwOPpLuDajvV4zUxGfshWkaKe4bUvRr\nMJ9al+ep8XmLm4KVukXWvatY3oR7HnKSljU6thCDpdvsrEZlJNlnebAVAoGAfQgS\np1YrB8KPZE/QlDCx74q+PgJmRI6WEefXEg+STzVJD5BrirTtpigH7/XB5OTTi1lu\nG0i8LdXZcv5O7ZnfO4lXkNcYmw4rX+hxVgDw5tLJ4coHzU7Inp4QgTQGy08XO9Aj\nIL+uoe5XIip140jPsKlxHDw2n3BmrKYSLjHqiSECgYBtsnBnZ/pEnNyVX4p4dKZs\nlNMCcxld9PfpvsR+owLEpZ7gVAdB28AMBTxWbqFMw+LibLMaHNRRoWk2S6v0hzEF\nc8ZF/eYdU6sh+dF7+mn5nNbpKLxZWAaRHJ4jvy1tkuj9qlr1YwKScunToHqUdKrT\n7GZMlWrburw7nGPlpoGSJQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "proj-owner@skillful-way-280916.iam.gserviceaccount.com",
+  "client_id": "101096877957321028570",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/proj-owner%40skillful-way-280916.iam.gserviceaccount.com"
+}
